@@ -22,6 +22,8 @@ On the other hand, thinking about the possible disadvantages that this may have,
 - How do these pros and cons apply to refactoring the original VBA script?
 
 ![Running time for 2017](VBA_Challenge_2017.png) 
+
+
 ![Running time for 2018](VBA_Challenge_2018.png)
 
 By doing this refactoring, improvements to the original code were made, with changes in the internal structure that allowed to have the same result that were expected but in less time.
